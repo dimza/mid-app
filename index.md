@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Dimza GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/dimza/mid-app/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
